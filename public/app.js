@@ -739,7 +739,7 @@ function buildPayslipHTML(s) {
   return `
   <div class="payslip-view-card" id="printable">
     <div class="pv-header">
-      <img src=".images/NRSoftechlogo.png" alt="Logo" class="pv-logo" />
+      <img src="images/NRSoftechlogo.png" alt="Logo" class="pv-logo" />
       <div>
         <div class="pv-company-name">NR SOFTECH (I) PVT. LTD.</div>
         <div class="pv-company-sub">Payslip / Salary Slip</div>
